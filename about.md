@@ -3,7 +3,7 @@ layout: page
 title: Đại số cơ bản
 tagline: Những kiến thức đại số cơ bản 
 permalink: /about.html
-ref: about
+ref: Những kiến thức đại số cơ bản 
 order: 0
 ---
 
