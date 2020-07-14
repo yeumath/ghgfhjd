@@ -2,7 +2,7 @@
 layout: page
 title: Tin tức toán học
 tagline: Các tin tức toán học trong nước và thế giới
-ref: contact
+ref: Tin tức toán học
 order: 1
 ---
 
