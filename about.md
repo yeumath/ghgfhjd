@@ -9,4 +9,4 @@ order: 0
 
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Trở về trang chủ]({{ '/' | absolute_url }})
