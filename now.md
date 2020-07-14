@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Now
-tagline: What I'm doing now
+title: Các bài viết nổi bậc
+tagline: Blog toán học
 permalink: /now.html
 ref: now
 order: 2
 ---
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Trở về trang chủ]({{ '/' | absolute_url }})
