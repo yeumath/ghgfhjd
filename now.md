@@ -3,7 +3,7 @@ layout: page
 title: Các bài viết nổi bậc
 tagline: Blog toán học
 permalink: /now.html
-ref: now
+ref: Các bài viết nổi bậc
 order: 2
 ---
 
